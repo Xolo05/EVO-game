@@ -9,6 +9,10 @@ Este juego fue realizado como parte de mi proyecto en una competición de desarr
 - Motor: Unity
 - Plataforma: Windows (build ejecutable)
 
+## Código fuente
+
+La carpeta [`scripts/`](scripts) contiene los scripts en C# del juego (jugador, cámara, basura, botes de reciclaje, enemigos, proyectiles, contadores y más), junto con sus archivos `.meta` de Unity.
+
 ## Cómo jugar
 
 1. Clona o descarga este repositorio.
