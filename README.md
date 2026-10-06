@@ -1,6 +1,6 @@
-# EVO: Save the World
+# ECO: Save the World
 
-EVO: Save the World es un juego realizado para concientizar al jugador acerca del reciclaje y la contaminación en el medio ambiente.
+ECO: Save the World es un juego realizado para concientizar al jugador acerca del reciclaje y la contaminación en el medio ambiente.
 
 Este juego fue realizado como parte de mi proyecto en una competición de desarrollo de software a nivel Latinoamérica y hoy forma parte de mi portafolio.
 
